@@ -34,9 +34,9 @@ I created JARVIS with two goals in mind:
 1. It should have a lot of useful features (both fun and commonly used).
 1. Anyone can contribute to this project. (As this is module-based, anybody with a decent knowledge of Python can contribute.) One of the prime goals of this project is to lower the entry barrier into the world of open source.
 
-Take a look at the [contributing guidelines](https://github.com/swapagarwal/JARVIS-on-Messenger/blob/master/CONTRIBUTING.md) to see how easy it is to add your own code. I'll be waiting for your pull request! :wink:
+Take a look at the [contributing guidelines](https://github.com/TheShubham-K/JARVIS/blob/master/CONTRIBUTING.md) to see how easy it is to add your own code. I'll be waiting for your pull request! :wink:
 
-A massive Thank You to all [contributors](https://github.com/swapagarwal/JARVIS-on-Messenger/graphs/contributors), and congratulations to people who made their first open-source contribution! :tada:
+A massive Thank You to all [contributors](https://github.com/TheShubham-K/JARVIS/graphs/contributors), and congratulations to people who made their first open-source contribution! :tada:
 
 ### Modules
 
